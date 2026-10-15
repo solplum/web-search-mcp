@@ -30,7 +30,7 @@
 ```bash
 pip install web-search-mcp
 # 或
-git clone git@github.com:2021291696/web-search-mcp.git
+git clone git@github.com:solplum/web-search-mcp.git
 ```
 
 ### 配置
@@ -58,7 +58,7 @@ git clone git@github.com:2021291696/web-search-mcp.git
 
 | 项目 | 关系 |
 |------|------|
-| [skill-bootstrapper](https://github.com/2021291696/skill-bootstrapper) | 下游 — 搜索市场上已有 Skill |
+| [skill-bootstrapper](https://github.com/solplum/skill-bootstrapper) | 下游 — 搜索市场上已有 Skill |
 | 所有 Skill 生态项目 | 下游 — 为所有需要联网的 Skill 提供搜索能力 |
 
 ## License
